@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>GMAO.BusinessLogicLayer</AssemblyName>
+    <PackageId>Billing.BusinessLogicLayer</PackageId>
+    <NetStandardImplicitPackageVersion>1.6.1</NetStandardImplicitPackageVersion>
+    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+    <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GMAO.BusinessLogicLayer.Contracts\GMAO.BusinessLogicLayer.Contracts.csproj" />
+    <ProjectReference Include="..\GMAO.DataAccessLayer.Contracts\GMAO.DataAccessLayer.Contracts.csproj" />
+    <ProjectReference Include="..\GMAO.DataAccessLayer\GMAO.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\GMAO.Entities\GMAO.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

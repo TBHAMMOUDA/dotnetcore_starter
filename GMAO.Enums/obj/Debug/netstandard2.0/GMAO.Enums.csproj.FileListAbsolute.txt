@@ -1,0 +1,17 @@
+D:\consulting\Projet GMAO\NSTGMAO\Billing.Enums\bin\Debug\netstandard2.0\GMAO.Enums.deps.json
+D:\consulting\Projet GMAO\NSTGMAO\Billing.Enums\bin\Debug\netstandard2.0\GMAO.Enums.dll
+D:\consulting\Projet GMAO\NSTGMAO\Billing.Enums\bin\Debug\netstandard2.0\GMAO.Enums.pdb
+D:\consulting\Projet GMAO\NSTGMAO\Billing.Enums\obj\Debug\netstandard2.0\GMAO.Enums.csproj.CoreCompileInputs.cache
+D:\consulting\Projet GMAO\NSTGMAO\Billing.Enums\obj\Debug\netstandard2.0\GMAO.Enums.AssemblyInfoInputs.cache
+D:\consulting\Projet GMAO\NSTGMAO\Billing.Enums\obj\Debug\netstandard2.0\GMAO.Enums.AssemblyInfo.cs
+D:\consulting\Projet GMAO\NSTGMAO\Billing.Enums\obj\Debug\netstandard2.0\GMAO.Enums.dll
+D:\consulting\Projet GMAO\NSTGMAO\Billing.Enums\obj\Debug\netstandard2.0\GMAO.Enums.pdb
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.Enums\bin\Debug\netstandard2.0\GMAO.Enums.deps.json
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.Enums\bin\Debug\netstandard2.0\GMAO.Enums.dll
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.Enums\bin\Debug\netstandard2.0\GMAO.Enums.pdb
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.Enums\obj\Debug\netstandard2.0\GMAO.Enums.csproj.CoreCompileInputs.cache
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.Enums\obj\Debug\netstandard2.0\GMAO.Enums.AssemblyInfoInputs.cache
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.Enums\obj\Debug\netstandard2.0\GMAO.Enums.AssemblyInfo.cs
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.Enums\obj\Debug\netstandard2.0\GMAO.Enums.dll
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.Enums\obj\Debug\netstandard2.0\GMAO.Enums.pdb
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.Enums\obj\Debug\netstandard2.0\GMAO.Enums.csprojResolveAssemblyReference.cache

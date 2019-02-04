@@ -1,0 +1,17 @@
+D:\Projet SVN\AmadeusRefonte\Amadeus_REFONTE\Amadeus_REFONTE_CODE_SOURCE\Billing\Billing.Enums\bin\Debug\netstandard2.0\Billing.Enums.deps.json
+D:\Projet SVN\AmadeusRefonte\Amadeus_REFONTE\Amadeus_REFONTE_CODE_SOURCE\Billing\Billing.Enums\bin\Debug\netstandard2.0\Billing.Enums.dll
+D:\Projet SVN\AmadeusRefonte\Amadeus_REFONTE\Amadeus_REFONTE_CODE_SOURCE\Billing\Billing.Enums\bin\Debug\netstandard2.0\Billing.Enums.pdb
+D:\Projet SVN\AmadeusRefonte\Amadeus_REFONTE\Amadeus_REFONTE_CODE_SOURCE\Billing\Billing.Enums\obj\Debug\netstandard2.0\Billing.Enums.csproj.CoreCompileInputs.cache
+D:\Projet SVN\AmadeusRefonte\Amadeus_REFONTE\Amadeus_REFONTE_CODE_SOURCE\Billing\Billing.Enums\obj\Debug\netstandard2.0\Billing.Enums.AssemblyInfoInputs.cache
+D:\Projet SVN\AmadeusRefonte\Amadeus_REFONTE\Amadeus_REFONTE_CODE_SOURCE\Billing\Billing.Enums\obj\Debug\netstandard2.0\Billing.Enums.AssemblyInfo.cs
+D:\Projet SVN\AmadeusRefonte\Amadeus_REFONTE\Amadeus_REFONTE_CODE_SOURCE\Billing\Billing.Enums\obj\Debug\netstandard2.0\Billing.Enums.dll
+D:\Projet SVN\AmadeusRefonte\Amadeus_REFONTE\Amadeus_REFONTE_CODE_SOURCE\Billing\Billing.Enums\obj\Debug\netstandard2.0\Billing.Enums.pdb
+D:\consulting\Projet GMAO\NSTGMAO\Billing.Enums\bin\Debug\netstandard2.0\Billing.Enums.deps.json
+D:\consulting\Projet GMAO\NSTGMAO\Billing.Enums\bin\Debug\netstandard2.0\Billing.Enums.dll
+D:\consulting\Projet GMAO\NSTGMAO\Billing.Enums\bin\Debug\netstandard2.0\Billing.Enums.pdb
+D:\consulting\Projet GMAO\NSTGMAO\Billing.Enums\obj\Debug\netstandard2.0\Billing.Enums.csprojResolveAssemblyReference.cache
+D:\consulting\Projet GMAO\NSTGMAO\Billing.Enums\obj\Debug\netstandard2.0\Billing.Enums.csproj.CoreCompileInputs.cache
+D:\consulting\Projet GMAO\NSTGMAO\Billing.Enums\obj\Debug\netstandard2.0\Billing.Enums.AssemblyInfoInputs.cache
+D:\consulting\Projet GMAO\NSTGMAO\Billing.Enums\obj\Debug\netstandard2.0\Billing.Enums.AssemblyInfo.cs
+D:\consulting\Projet GMAO\NSTGMAO\Billing.Enums\obj\Debug\netstandard2.0\Billing.Enums.dll
+D:\consulting\Projet GMAO\NSTGMAO\Billing.Enums\obj\Debug\netstandard2.0\Billing.Enums.pdb

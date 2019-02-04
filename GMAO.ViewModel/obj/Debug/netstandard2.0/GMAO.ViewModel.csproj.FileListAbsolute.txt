@@ -1,0 +1,17 @@
+D:\consulting\Projet GMAO\NSTGMAO\Billing.ViewModel\obj\Debug\netstandard2.0\GMAO.ViewModel.csprojResolveAssemblyReference.cache
+D:\consulting\Projet GMAO\NSTGMAO\Billing.ViewModel\obj\Debug\netstandard2.0\GMAO.ViewModel.csproj.CoreCompileInputs.cache
+D:\consulting\Projet GMAO\NSTGMAO\Billing.ViewModel\obj\Debug\netstandard2.0\GMAO.ViewModel.AssemblyInfoInputs.cache
+D:\consulting\Projet GMAO\NSTGMAO\Billing.ViewModel\obj\Debug\netstandard2.0\GMAO.ViewModel.AssemblyInfo.cs
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.ViewModel\obj\Debug\netstandard2.0\GMAO.ViewModel.csproj.CoreCompileInputs.cache
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.ViewModel\obj\Debug\netstandard2.0\GMAO.ViewModel.AssemblyInfoInputs.cache
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.ViewModel\obj\Debug\netstandard2.0\GMAO.ViewModel.AssemblyInfo.cs
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.ViewModel\obj\Debug\netstandard2.0\GMAO.ViewModel.csprojResolveAssemblyReference.cache
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.ViewModel\bin\Debug\netstandard2.0\GMAO.ViewModel.deps.json
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.ViewModel\bin\Debug\netstandard2.0\GMAO.ViewModel.dll
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.ViewModel\bin\Debug\netstandard2.0\GMAO.ViewModel.pdb
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.ViewModel\bin\Debug\netstandard2.0\GMAO.Entities.dll
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.ViewModel\bin\Debug\netstandard2.0\GMAO.Enums.dll
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.ViewModel\bin\Debug\netstandard2.0\GMAO.Entities.pdb
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.ViewModel\bin\Debug\netstandard2.0\GMAO.Enums.pdb
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.ViewModel\obj\Debug\netstandard2.0\GMAO.ViewModel.dll
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.ViewModel\obj\Debug\netstandard2.0\GMAO.ViewModel.pdb

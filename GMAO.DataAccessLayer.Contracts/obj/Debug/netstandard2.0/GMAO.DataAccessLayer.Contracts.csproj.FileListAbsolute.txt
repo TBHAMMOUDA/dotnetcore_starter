@@ -1,0 +1,16 @@
+D:\consulting\Projet GMAO\NSTGMAO\Billing.DataAccessLayer.Contracts\bin\Debug\netstandard2.0\GMAO.DataAccessLayer.Contracts.deps.json
+D:\consulting\Projet GMAO\NSTGMAO\Billing.DataAccessLayer.Contracts\bin\Debug\netstandard2.0\GMAO.DataAccessLayer.Contracts.dll
+D:\consulting\Projet GMAO\NSTGMAO\Billing.DataAccessLayer.Contracts\bin\Debug\netstandard2.0\GMAO.DataAccessLayer.Contracts.pdb
+D:\consulting\Projet GMAO\NSTGMAO\Billing.DataAccessLayer.Contracts\obj\Debug\netstandard2.0\GMAO.DataAccessLayer.Contracts.csproj.CoreCompileInputs.cache
+D:\consulting\Projet GMAO\NSTGMAO\Billing.DataAccessLayer.Contracts\obj\Debug\netstandard2.0\GMAO.DataAccessLayer.Contracts.AssemblyInfoInputs.cache
+D:\consulting\Projet GMAO\NSTGMAO\Billing.DataAccessLayer.Contracts\obj\Debug\netstandard2.0\GMAO.DataAccessLayer.Contracts.AssemblyInfo.cs
+D:\consulting\Projet GMAO\NSTGMAO\Billing.DataAccessLayer.Contracts\obj\Debug\netstandard2.0\GMAO.DataAccessLayer.Contracts.dll
+D:\consulting\Projet GMAO\NSTGMAO\Billing.DataAccessLayer.Contracts\obj\Debug\netstandard2.0\GMAO.DataAccessLayer.Contracts.pdb
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.DataAccessLayer.Contracts\bin\Debug\netstandard2.0\GMAO.DataAccessLayer.Contracts.deps.json
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.DataAccessLayer.Contracts\bin\Debug\netstandard2.0\GMAO.DataAccessLayer.Contracts.dll
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.DataAccessLayer.Contracts\bin\Debug\netstandard2.0\GMAO.DataAccessLayer.Contracts.pdb
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.DataAccessLayer.Contracts\obj\Debug\netstandard2.0\GMAO.DataAccessLayer.Contracts.csproj.CoreCompileInputs.cache
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.DataAccessLayer.Contracts\obj\Debug\netstandard2.0\GMAO.DataAccessLayer.Contracts.AssemblyInfoInputs.cache
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.DataAccessLayer.Contracts\obj\Debug\netstandard2.0\GMAO.DataAccessLayer.Contracts.AssemblyInfo.cs
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.DataAccessLayer.Contracts\obj\Debug\netstandard2.0\GMAO.DataAccessLayer.Contracts.dll
+D:\consulting\Projet GMAO\NSTGMAO\GMAO.DataAccessLayer.Contracts\obj\Debug\netstandard2.0\GMAO.DataAccessLayer.Contracts.pdb
